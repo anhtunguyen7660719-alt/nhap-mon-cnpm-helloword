@@ -1,3 +1,3 @@
 Hello World!
 
-xin chao toi la anh ngu ngoc
+Đây là dự án đầu tiên của tôi
